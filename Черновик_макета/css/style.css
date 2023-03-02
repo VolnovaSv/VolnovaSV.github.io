@@ -1,0 +1,62 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 130px;
+    padding: 150px;
+
+}
+.header div{
+    width: 100px;
+    height: 100px;
+    margin: 130px;
+    padding: 150px;
+}
+.main {
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+padding: 30px;
+margin: 100px;
+border: 100px;
+}
+.main div{
+    width: ;
+   
+}
+.section-1{
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+
+}
+.section-1 div{
+
+}
+.section-2{
+margin-left: 130px;
+    
+    
+}
+
+.section-3{
+display: contents;    
+flex-direction: row;
+justify-content: flex-start;
+margin: 30px;
+padding: 50px;
+
+}
+.section-3 div{
+    margin-top: 40px;
+    
+}
+.section-4{
+
+}
+.section-4 div{
+width: 544px;
+height: 416px;
+top: 928px;
+}
